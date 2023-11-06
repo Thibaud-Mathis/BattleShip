@@ -1,5 +1,6 @@
 from random import randint
 # ❌ 💥 🌊 🚢
+# https://github.com/Thibaud-Mathis/BattleShip
 # ["1A", "1B ", ... x8], [" ", " ", ... x8], ...x8
 #Boards for holding ship locations
 AI_HIDDEN_BOARD = [["  "] * 8 for x in range(8)]
